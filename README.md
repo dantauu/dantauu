@@ -12,7 +12,7 @@ Frontend - developer
 
 ### Socials
 
-<a href="https://t.me/@dantau"><img src="https://img.shields.io/badge/Telegram-4B0082?style=for-the-badge&logo=Telegram&logoColor=white"/> </a>
+<a href="https://t.me/@dantau" target="_blank"><img src="https://img.shields.io/badge/Telegram-4B0082?style=for-the-badge&logo=Telegram&logoColor=white"/> </a>
 <a href="https://vk.com/siizee"><img src="https://img.shields.io/badge/VK-4B0082?style=for-the-badge&logo=VK&logoColor=white"/> </a>
 
 <b>My GitHub Stats</b>
